@@ -1,0 +1,2 @@
+io.github.yibird.starter.extension.curd.core.autoconfigure.CrudRequestMappingAutoConfiguration
+io.github.yibird.starter.extension.curd.core.autoconfigure.CrudRestControllerAutoConfiguration

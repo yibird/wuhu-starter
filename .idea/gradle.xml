@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../application/gradle-9.0.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/wuhu-starter-api-doc" />
+            <option value="$PROJECT_DIR$/wuhu-starter-auth" />
+            <option value="$PROJECT_DIR$/wuhu-starter-auth/wuhu-starter-auth-justauth" />
+            <option value="$PROJECT_DIR$/wuhu-starter-auth/wuhu-starter-auth-satoken" />
+            <option value="$PROJECT_DIR$/wuhu-starter-cache" />
+            <option value="$PROJECT_DIR$/wuhu-starter-cache/wuhu-starter-cache-jetcache" />
+            <option value="$PROJECT_DIR$/wuhu-starter-cache/wuhu-starter-cache-l2cache" />
+            <option value="$PROJECT_DIR$/wuhu-starter-cache/wuhu-starter-cache-redisson" />
+            <option value="$PROJECT_DIR$/wuhu-starter-captcha" />
+            <option value="$PROJECT_DIR$/wuhu-starter-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-data" />
+            <option value="$PROJECT_DIR$/wuhu-starter-data/wuhu-starter-data-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-data/wuhu-starter-data-jimmer" />
+            <option value="$PROJECT_DIR$/wuhu-starter-data/wuhu-starter-data-mf" />
+            <option value="$PROJECT_DIR$/wuhu-starter-data/wuhu-starter-data-mp" />
+            <option value="$PROJECT_DIR$/wuhu-starter-dependencies" />
+            <option value="$PROJECT_DIR$/wuhu-starter-example" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-crud" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-crud/wuhu-starter-extension-crud-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-crud/wuhu-starter-extension-crud-jimmer" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-crud/wuhu-starter-extension-crud-mf" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-crud/wuhu-starter-extension-crud-mp" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-datapermission" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-datapermission/wuhu-starter-extension-datapermission-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-datapermission/wuhu-starter-extension-datapermission-jimmer" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-datapermission/wuhu-starter-extension-datapermission-mp" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-sort" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-tenant" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-tenant/wuhu-starter-extension-tenant-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-tenant/wuhu-starter-extension-tenant-jimmer" />
+            <option value="$PROJECT_DIR$/wuhu-starter-extension/wuhu-starter-extension-tenant/wuhu-starter-extension-tenant-mp" />
+            <option value="$PROJECT_DIR$/wuhu-starter-idempotent" />
+            <option value="$PROJECT_DIR$/wuhu-starter-json" />
+            <option value="$PROJECT_DIR$/wuhu-starter-json/wuhu-starter-json-fastjson" />
+            <option value="$PROJECT_DIR$/wuhu-starter-json/wuhu-starter-json-jackson" />
+            <option value="$PROJECT_DIR$/wuhu-starter-log" />
+            <option value="$PROJECT_DIR$/wuhu-starter-log/wuhu-starter-log-core" />
+            <option value="$PROJECT_DIR$/wuhu-starter-messaging" />
+            <option value="$PROJECT_DIR$/wuhu-starter-messaging/wuhu-starter-messaging-mail" />
+            <option value="$PROJECT_DIR$/wuhu-starter-messaging/wuhu-starter-messaging-ws" />
+            <option value="$PROJECT_DIR$/wuhu-starter-ratelimiter" />
+            <option value="$PROJECT_DIR$/wuhu-starter-security" />
+            <option value="$PROJECT_DIR$/wuhu-starter-security/wuhu-starter-security-crypto" />
+            <option value="$PROJECT_DIR$/wuhu-starter-trace" />
+            <option value="$PROJECT_DIR$/wuhu-starter-web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+    <option name="parallelModelFetch" value="true" />
+  </component>
+</project>

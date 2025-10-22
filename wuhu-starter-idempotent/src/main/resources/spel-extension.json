@@ -1,0 +1,7 @@
+{
+  "io.github.yibird.starter.idempotent.annotation.Idempotent@key":{
+    "method":{
+      "parameters": true
+    }
+  }
+}

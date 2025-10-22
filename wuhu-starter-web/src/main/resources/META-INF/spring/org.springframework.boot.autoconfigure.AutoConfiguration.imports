@@ -1,0 +1,4 @@
+io.github.yibird.starter.web.autoconfigure.cors.CorsAutoConfiguration
+io.github.yibird.starter.web.autoconfigure.response.GlobalResponseAutoConfiguration
+io.github.yibird.starter.web.autoconfigure.mvc.WebMvcAutoConfiguration
+io.github.yibird.starter.web.autoconfigure.xss.XssAutoConfiguration

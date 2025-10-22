@@ -1,0 +1,3 @@
+io.github.yibird.starter.core.autoconfigure.project.ProjectAutoConfiguration
+io.github.yibird.starter.core.autoconfigure.executor.ThreadPoolAutoConfiguration
+io.github.yibird.starter.core.autoconfigure.executor.AsyncAutoConfiguration
